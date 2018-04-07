@@ -5,6 +5,8 @@
 # than or equal to twice the length of the other.
 # Hint: compare the length difference to the length of the smaller string
 
+is_twice_as_long 
+
 
 # Call your `is_twice_as_long` function by passing it different length strings
 # to confirm that it works. Make sure to check when _either_ argument is twice
